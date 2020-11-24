@@ -26,4 +26,10 @@
     <dimen name="system_icons_keyguard_padding_end">26dp</dimen>
 
     <dimen name="rounded_corner_content_padding">74px</dimen>
+
+    <!-- Custom cutout overlay view sizes -->
+    <dimen name="config_customCutoutTopWidth">240.0px</dimen>
+    <dimen name="config_customCutoutTopHeight">240.0px</dimen>
+    <dimen name="config_customCutoutBottomWidth">240.0px</dimen>
+    <dimen name="config_customCutoutBottomHeight">240.0px</dimen>
 </resources>
