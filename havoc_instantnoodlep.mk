@@ -24,6 +24,9 @@ $(call inherit-product, device/oneplus/instantnoodlep/device.mk)
 # Inherit some common Havoc stuff.
 $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
+# Boot Animation
+TARGET_BOOT_ANIMATION_RES := 1440
+
 # Gapps
 WITH_GAPPS := true
 TARGET_GAPPS_ARCH := arm64
