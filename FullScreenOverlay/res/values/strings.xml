@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_cutout_emulation_overlay">Full Screen</string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M 0, 0
+        H 44
+        V 1
+        H 0
+        L 0, 0
+        @dp
+        @left
+    </string>
+</resources>
