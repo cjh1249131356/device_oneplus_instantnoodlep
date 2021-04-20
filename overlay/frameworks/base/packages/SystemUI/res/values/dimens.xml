@@ -35,7 +35,7 @@
     <dimen name="system_icons_keyguard_padding_end">0dp</dimen>
 
     <!-- The absolute side margins of quick settings -->
-    <dimen name="rounded_corner_content_padding">83px</dimen>
+    <dimen name="rounded_corner_content_padding">72px</dimen>
 
     <!-- Margin on the left side of the heads up notification -->
     <dimen name="heads_up_status_bar_padding_start">34px</dimen>
