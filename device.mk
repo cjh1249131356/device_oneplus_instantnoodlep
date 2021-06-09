@@ -52,6 +52,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     OnePlus8PWifiOverlay
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    vendor.product.device=instantnoodlep
+
 PRODUCT_SHIPPING_API_LEVEL := 29
 
 # Inherit from oneplus sm8250-common
